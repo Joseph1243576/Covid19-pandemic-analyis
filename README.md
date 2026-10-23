@@ -1,2 +1,8 @@
-# Covid19-pandemic-analyis
-Analysis of the COVID-19 pandemic using Python to explore infection cases, deaths, and recovery trends. Includes data processing, exploratory data analysis (EDA), and visualizations to identify trends and patterns in pandemic data.
+About This Project
+
+This project provides a comprehensive analysis of the SARS-CoV-2 pandemic using open-source data. The analysis is organized into five Jupyter notebooks covering the full data pipeline — from raw data ingestion to publication-ready visualizations.
+The project demonstrates:
+*Automated data pipelines for daily epidemic surveillance
+*Multi-granularity analysis (global, continental, national)
+*Socioeconomic correlation studies linking pandemic metrics to World Bank indicators
+*Reproducible visualization architecture via a custom CovidDataViz class
